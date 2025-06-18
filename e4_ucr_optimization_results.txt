@@ -1,0 +1,6 @@
+Dataset	Basic(ms)	Batch(ms)	Batch_Speedup
+bitcoin-temporal	409.10	407.46	1.00
+cit-Patents	6.20	13.93	0.45
+citation_network_10M	12.64	17.17	0.74
+communication_1B	49.93	58.00	0.86
+soc-LiveJournal1	6.09	13.36	0.46

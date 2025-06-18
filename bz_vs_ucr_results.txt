@@ -1,0 +1,1 @@
+Dataset	Window_Size	Slide_Step	BZ_Time(ms)	UCR_Time(ms)	Speedup

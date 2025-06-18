@@ -1,0 +1,14 @@
+nohup: ignoring input
+Found 17 datasets
+
+========================================
+Processing: social_media_100M
+========================================
+Processing dataset: social_media_100M
+Loaded 100000000 edges in 44216.1 ms
+Created 1000 bins
+
+Running experiment with window size: 10
+Slide 1/10
+Slide 2/10
+Slide 3/10

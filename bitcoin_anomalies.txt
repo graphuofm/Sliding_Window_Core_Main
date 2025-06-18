@@ -1,0 +1,2 @@
+Date	Day	Event	PrevMaxCore	NewMaxCore	ChangeRatio
+2009-01-19	7	CRASH	2	1	0.500

@@ -1,0 +1,4 @@
+Dataset	Basic(ms)	Parallel2(ms)	Parallel4(ms)	Parallel8(ms)	Speedup2	Speedup4	Speedup8
+bitcoin-temporal	408.03	407.11	407.63	410.76	1.00	1.00	0.99
+cit-Patents	6.41	16.87	15.76	16.61	0.38	0.41	0.39
+citation_network_10M	12.69	17.96	18.53	18.99	0.71	0.68	0.67

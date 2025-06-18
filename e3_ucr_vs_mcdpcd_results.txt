@@ -1,0 +1,10 @@
+Dataset	Batch_Size	MCDPCD_Time(ms)	UCR_Time(ms)	Speedup
+bitcoin-temporal	1	110.06	0.04	2543.96
+bitcoin-temporal	10	209.72	18.01	11.65
+bitcoin-temporal	100	78.43	44.43	1.77
+cit-Patents	1	0.03	0.01	3.37
+cit-Patents	10	0.05	0.04	1.19
+cit-Patents	100	0.45	0.35	1.27
+citation_network_10M	1	0.01	0.01	1.02
+citation_network_10M	10	0.05	0.04	1.28
+citation_network_10M	100	0.38	0.31	1.22

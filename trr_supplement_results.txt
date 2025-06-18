@@ -1,0 +1,4 @@
+Dataset	Window_Size	Method	BZ_Time(ms)	UCR_Time(ms)	Speedup
+temporal-reddit-reply	100	BZ	259.28	-	-
+temporal-reddit-reply	100	UCR-Basic	-	6.88	37.69
+temporal-reddit-reply	100	UCR-Parallel	-	2.19056	118.363
