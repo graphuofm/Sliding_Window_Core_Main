@@ -60,14 +60,3 @@ Contact
 For questions or issues, contact:
 - Jiacheng Ding: jding2@memphis.edu
 - Xiaofei Zhang: xiaofei.zhang@memphis.edu
-
-Citation
---------
-If you use this code, please cite our paper:
-
-@inproceedings{ding2026ucr,
-  title={Sliding Window Constraint Coreness Maintenance over Temporal Graphs},
-  author={Jiacheng Ding and Xiaofei Zhang},
-  booktitle={ICDE 2026},
-  year={2026}
-} 
